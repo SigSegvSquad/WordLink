@@ -6,3 +6,136 @@ England, London
 France, Paris
 Egypt, Cairo
 America, Washington DC
+Afghanistan, Kabul
+Albania, Tirana
+Algeria, Algiers
+Andorra, Andorra la Vella
+Angola, Luanda
+Antigua and Barbuda, Saint John's
+Argentina, Buenos Aires
+Armenia, Yerevan
+Australia, Canberra
+Austria, Vienna
+Azerbaijan, Baku
+Bahamas, Nassau
+Bahrain, Manama
+Bangladesh, Dhaka
+Barbados, Bridgetown
+Belarus, Minsk
+Belgium,Brussels
+Belize, Belmopan
+Benin, Porto-Novo
+Bhutan, Thimphu
+Bolivia, Sucre 
+Bosnia and Herzegovina, Sarajevo
+Botswana, Gaborone
+Brazil, Brasilia
+Brunei, Bandar Seri Begawan
+Bulgaria, Sofia
+Burkina Faso, Ouagadougou
+Burundi, Gitega
+Madagascar, Antananarivo
+Malawi, Lilongwe
+Malaysia, Kuala Lumpur
+Maldives, Male
+Mali, Bamako
+Malta, Valletta
+Marshall Islands, Majuro
+Mauritania, Nouakchott
+Mauritius, Port Louis
+Mexico, Mexico City
+Micronesia, Palikir
+Moldova, Chisinau
+Monaco, Monaco
+Mongolia, Ulaanbaatar
+Montenegro, Podgorica
+Morocco, Rabat
+Mozambique, Maputo
+Pakistan, Islamabad
+Palau, Ngerulmud
+Palestine, Jerusalem (East)
+Panama, Panama City
+Papua New Guinea, Port Moresby
+Paraguay, Asunción
+Peru, Lima
+Philippines, Manila
+Poland, Warsaw
+Portugal, Lisbon
+South Korea, Seoul
+South Sudan, Juba
+Spain, Madrid
+Sri Lanka, Sri Jayawardenepura Kotte
+Sudan, Khartoum
+Suriname, Paramaribo
+Sweden, Stockholm
+Switzerland, Bern
+Syria, Damascus
+Taiwan, Taipei
+Tajikistan, Dushanbe
+Tanzania, Dodoma
+Thailand, Bangkok
+Timor-Leste, Dili
+Togo, Lomé
+Tonga, Nukuʻalofa
+Trinidad and Tobago, Port of Spain
+Tunisia, Tunis
+Turkey		Ankara
+Turkmenistan	Ashgabat
+Tuvalu		Funafuti
+Uganda	Kampala
+Ukraine	Kyiv (also known as Kiev)
+United Arab Emirates	Abu Dhabi
+United Kingdom	London
+United States of America	Washington, D.C.
+Uruguay	Montevideo
+Uzbekistan	Tashkent
+Vanuatu	Port Vila
+Vatican City (Holy See)	Vatican City
+Venezuela	Caracas
+Vietnam	Hanoi
+Yemen		Sana'a
+Zambia	Lusaka
+Zimbabwe	Harare
+Haiti	Port-au-Prince
+Honduras	Tegucigalpa
+Hungary	Budapest
+Iceland	Reykjavik
+India		New Delhi
+Indonesia	Jakarta
+Iran		Tehran
+Iraq		Baghdad
+Ireland		Dublin
+Israel		Jerusalem
+Italy		Rome
+Jamaica	Kingston
+Japan		Tokyo
+Jordan		Amman
+Kazakhstan	Nur-Sultan
+Kenya		Nairobi
+Kiribati		Tarawa
+Kosovo		Pristina
+Kuwait		Kuwait City
+Kyrgyzstan	Bishkek
+Laos		Vientiane
+Latvia		Riga
+Lebanon	Beirut
+Lesotho	Maseru
+Liberia		Monrovia
+Libya		Tripoli
+Liechtenstein	Vaduz
+Lithuania	Vilnius
+Luxembourg	Luxembourg (city)
+Fiji		Suva
+Finland	Helsinki
+France		Paris
+Gabon		Libreville
+Gambia	Banjul
+Georgia	Tbilisi
+Germany	Berlin
+Ghana		Accra
+Greece		Athens
+Grenada	Saint George's
+Guatemala	Guatemala City
+Guinea		Conakry
+Guinea-Bissau	Bissau
+Guyana	Georgetown
