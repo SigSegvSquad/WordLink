@@ -1,0 +1,8 @@
+Country-City
+India, Delhi
+Spain, Madrid
+China, Beijing
+England, London
+France, Paris
+Egypt, Cairo
+America, Washington DC
