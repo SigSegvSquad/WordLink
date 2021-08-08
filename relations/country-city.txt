@@ -79,63 +79,63 @@ Togo, Lomé
 Tonga, Nukuʻalofa
 Trinidad and Tobago, Port of Spain
 Tunisia, Tunis
-Turkey		Ankara
-Turkmenistan	Ashgabat
-Tuvalu		Funafuti
-Uganda	Kampala
-Ukraine	Kyiv (also known as Kiev)
-United Arab Emirates	Abu Dhabi
-United Kingdom	London
-United States of America	Washington, D.C.
-Uruguay	Montevideo
-Uzbekistan	Tashkent
-Vanuatu	Port Vila
-Vatican City (Holy See)	Vatican City
-Venezuela	Caracas
-Vietnam	Hanoi
-Yemen		Sana'a
-Zambia	Lusaka
-Zimbabwe	Harare
-Haiti	Port-au-Prince
-Honduras	Tegucigalpa
-Hungary	Budapest
-Iceland	Reykjavik
-India		New Delhi
-Indonesia	Jakarta
-Iran		Tehran
-Iraq		Baghdad
-Ireland		Dublin
-Israel		Jerusalem
-Italy		Rome
-Jamaica	Kingston
-Japan		Tokyo
-Jordan		Amman
-Kazakhstan	Nur-Sultan
-Kenya		Nairobi
-Kiribati		Tarawa
-Kosovo		Pristina
-Kuwait		Kuwait City
-Kyrgyzstan	Bishkek
-Laos		Vientiane
-Latvia		Riga
-Lebanon	Beirut
-Lesotho	Maseru
-Liberia		Monrovia
-Libya		Tripoli
-Liechtenstein	Vaduz
-Lithuania	Vilnius
-Luxembourg	Luxembourg (city)
-Fiji		Suva
-Finland	Helsinki
-France		Paris
-Gabon		Libreville
-Gambia	Banjul
-Georgia	Tbilisi
-Germany	Berlin
-Ghana		Accra
-Greece		Athens
-Grenada	Saint George's
-Guatemala	Guatemala City
-Guinea		Conakry
-Guinea-Bissau	Bissau
-Guyana	Georgetown
+Turkey, Ankara
+Turkmenistan, Ashgabat
+Tuvalu, Funafuti
+Uganda, Kampala
+Ukraine,Kyiv
+United Arab Emirates, Abu Dhabi
+United Kingdom, London
+United States of America, Washington D.C.
+Uruguay, Montevideo
+Uzbekistan, Tashkent
+Vanuatu, Port Vila
+Vatican City, Vatican City
+Venezuela, Caracas
+Vietnam, Hanoi
+Yemen, Sana'a
+Zambia, Lusaka
+Zimbabwe, Harare
+Haiti, Port-au-Prince
+Honduras, Tegucigalpa
+Hungary, Budapest
+Iceland, Reykjavik
+India, New Delhi
+Indonesia, Jakarta
+Iran, Tehran
+Iraq, Baghdad
+Ireland, Dublin
+Israel, Jerusalem
+Italy, Rome
+Jamaica, Kingston
+Japan, Tokyo
+Jordan, Amman
+Kazakhstan, Nur-Sultan
+Kenya, Nairobi
+Kiribati, Tarawa
+Kosovo, Pristina
+Kuwait, Kuwait City
+Kyrgyzstan, Bishkek
+Laos, Vientiane
+Latvia, Riga
+Lebanon, Beirut
+Lesotho, Maseru
+Liberia, Monrovia
+Libya, Tripoli
+Liechtenstein, Vaduz
+Lithuania, Vilnius
+Luxembourg, Luxembourg
+Fiji, Suva
+Finland, Helsinki
+France, Paris
+Gabon, Libreville
+Gambia, Banjul
+Georgia, Tbilisi
+Germany, Berlin
+Ghana, Accra
+Greece, Athens
+Grenada, Saint George's
+Guatemala, Guatemala City
+Guinea, Conakry
+Guinea-Bissau, Bissau
+Guyana, Georgetown
