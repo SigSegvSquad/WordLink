@@ -1,0 +1,51 @@
+Athlete-Sport
+Kareem Abdul-Jabbar, basketball
+Yekaterina Zhdanova, volleyball
+Chris Hoy, cycling
+Serguei Bubka, pole vaulting
+Korinna Ishimtseva, volleyball
+Drew Brees, American football
+Tony Hawk, skateboarding
+Zinedine Zidane, football
+Barry Sanders, American football
+Sabina Altynbekova, volleyball
+Michael Vick, American football
+Haile Gebrselassie, running/long-distance track and road
+Brett Favre, American football
+Magic Johnson, basketball
+Floyd Mayweather Jr, boxing
+Jackie Robinson, baseball
+Larry Bird, basketball
+Carl Lewis, track and field athlete
+Kobe Bryant, basketball
+Derek Jeter,baseball
+Michael Johnson, sprinter/track and field athlete
+Peyton Manning, American football
+Daley Thompson, decathlete
+Serena Williams, tennis
+John Cena, WWE/wrestling
+Mike Tyson, boxing
+Jerry Rice, American football
+Gordie Howe, ice hockey
+Don Bradman, cricket
+Tom Brady, American football
+Jim Brown, American football
+Wilt Chamberlain, basketball
+Tiger Woods, golf
+Bobby Orr, ice hockey
+Cristiano Ronaldo, football
+Lionel Messi, football
+Jesse Owens, track and field athlete
+Bruce Lee, martial arts
+LeBron James, basketball
+Joe Montana, American football
+Roger Federer, tennis
+Pele, football
+Bo Jackson, baseball/American football
+Jim Thorpe, pentathlon, decathlon, American football, baseball and basketball
+Usain Bolt, sprinting
+Michael Phelps, swimming
+Babe Ruth, baseball
+Wayne Gretzky, ice hockey
+Muhammad Ali, boxing
+Michael Jordan, basketball
