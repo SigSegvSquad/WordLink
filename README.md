@@ -1,4 +1,4 @@
-![banner](https://github.com/SigSegvSquad/WordLink/blob/main/assets/Wordlink.png)
+![banner](https://github.com/SigSegvSquad/WordLink/blob/master/assets/Wordlink.png)
 
 ### Notebook Links
 - [Custom Embeddings](https://colab.research.google.com/drive/1wlRmxgJzMU0zxT7z5rZVKCgZRE7ZHg0t)
