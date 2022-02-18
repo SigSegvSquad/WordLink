@@ -2,7 +2,7 @@
 
 ### Notebook Links
 - [Custom Embeddings](https://colab.research.google.com/drive/1wlRmxgJzMU0zxT7z5rZVKCgZRE7ZHg0t)
-- Popu put the other ones here
+- [Eigen Space](https://colab.research.google.com/drive/1K_GKyBousPLMIzU-3pIWPtfql-wE3RxF?usp=sharing)
 
 ### Problem Statement
 To establish a concrete mathematical relation between common word pair relations and then to improve the performance of word embeddings by integrating word pair relations.
