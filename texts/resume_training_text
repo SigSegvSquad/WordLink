@@ -1,0 +1,56 @@
+A full stack web developer is a person who can develop both client and server software.
+In addition to mastering HTML and CSS, he/she also knows how to:
+Program a browser (like using JavaScript, jQuery, Angular, or Vue)
+Program a server (like using PHP, ASP, Python, or Node)
+Program a database (like using SQL, SQLite, or MongoDB)
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+For an app there are a multitude of stacks available to you. The ML part is insensitive to your choice of front end (assuming webapp). For the back end you should consider using one of the ML as a service APIs (quick to get started). There are several to choose from, just search for ML as a service and see the options. This will allow you to get it up and running to iterate more rapidly. I suggest focusing on the business part first (product-market fit).
+If you are set on building your own ML engine you have choices too. I'm not sure what the "best" stack is. I'll tell you the one I enjoy working with. I usually use python (flask-api, gunicorn) + nginx for the backend. I build and train models using scikit learn, and then write my own prediction code using the parameters from the sklearn machine. That part is not necessary, you can evaluate using the library too, but I find that you can sometimes get a nice speedup if you do. I stick all of these in docker containers and deploy them to AWS using ECS. ECS is still pretty immature, and I would consider using swarm/machine/rancher/etc. if I needed to orchestrate something more complex. If you roll-your-own, you'll also have to figure out how to automate model training and updating the parameters (unless you do it by hand). You can use a cron job that runs regularly (pulls in new training data, trains machine, makes new parameters), a CV suite to test for regressions (worse performance), and a mechanism for rolling out the new parameters to production.
+Honestly, it's a lot of work. That's why I suggested a MLAAS platform to begin with. You still have a lot of work to do there (feature selection and plumbing) but less than roll-your-own. If you care about time to market, you should explore some other solutions.
+Tool: Apache Airflow
+Lives on managed Docker containers/AWS Fargate.
+Access control: RBAC & FAB’s granular DAG roles
+Distributed task queue: Celery. Uses Redis as the broker.
+Web UI for Celery clusters: Flower
+Metadata: Amazon RDS / Postgres
+Main languages: Python 3.7, C++
+Firstly, ML algorithms need a considerable amount of high-quality data to learn and predict highly accurate results. Hence, we'll have to make sure the images are well processed, annotated, and generic for ML image processing. This is where Computer Vision (CV) comes into the picture; it's a field concerning machines being able to understand the image data. Using CV, we can process, load, transform and manipulate images for building an ideal dataset for the machine learning algorithm.
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.
+Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. The concept of neural networks, which has its roots in artificial intelligence, is swiftly gaining popularity in the development of trading systems.
+Feedforward neural networks, or multi-layer perceptrons (MLPs), are what we’ve primarily been focusing on within this article. They are comprised of an input layer, a hidden layer or layers, and an output layer. While these neural networks are also commonly referred to as MLPs, it’s important to note that they are actually comprised of sigmoid neurons, not perceptrons, as most real-world problems are nonlinear. Data usually is fed into these models to train them, and they are the foundation for computer vision, natural language processing, and other neural networks.
+Convolutional neural networks (CNNs) are similar to feedforward networks, but they’re usually utilized for image recognition, pattern recognition, and/or computer vision. These networks harness principles from linear algebra, particularly matrix multiplication, to identify patterns within an image.
+Recurrent neural networks (RNNs) are identified by their feedback loops. These learning algorithms are primarily leveraged when using time-series data to make predictions about future outcomes, such as stock market predictions or sales forecasting.
+Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube.[2] Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.[3] Registration requires a credit card or bank account details.[4]
+
+Google Cloud Platform provides infrastructure as a service, platform as a service, and serverless computing environments.
+Amazon, Microsoft and Google dominate the public cloud landscape providing the safest, flexible and reliable cloud services. Their respective cloud platforms, AWS, Azure and GCP offer clients a range of storage, computing and networking options.
+
+Some of the features common among the three platforms include instant provisioning, self-service, autoscaling, identity management, security and compliance, among others.
+
+At present, AWS can be considered to be much bigger than both Azure and GCP in terms of functionality and maturity.
+
+However, the other two are also progressing at a faster rate to prove their market dominance.
+Amazon Web Services (AWS)
+A pioneer of cloud computing, Amazon has been the first entrant into the cloud services market over a decade ago and leads in terms of both the number of products and customers, with AWS considered to be the benchmark of cloud service quality.
+
+AWS offers a range of Infrastructure as a Service (IaaS) offerings that can be classified into computing, database, content delivery and storage, and networking.
+
+AWS enables a smooth and flexible data collection flow using serverless services such as Amazon Kinesis Streams, Amazon SQS Queues and AWS Lambda Functions. It provides organizations with the option to choose the web application platform, operating system, database and programming languages, among others as per their requirement.
+Microsoft Azure
+Microsoft Azure platform has been designed for building, deploying and managing various services and applications through the huge network of Microsoft-managed datacenters. Azure’s offerings include compute, networking, data management databases and performance.
+
+Azure Site Recovery enables organizations of all sizes to orchestrate site-to-site replication and data recovery to VMs hosted on Azure itself. Azure offers Zone Redundant Storage (ZRS) or data storage redundancy across multiple data center regions.
+
+Azure ExpressRoute facilitates connectivity of the data center to Azure through a private link without using the Internet, thereby providing higher security, greater reliability and lower latency.
+
+Google Cloud Platform (GCP)
+With an intuitive interface, lower costs, preemptible instances and flexible compute options, GCP is an attractive alternative to both AWS and Azure. Google uses full-scale encryption of all data and communication channels including the traffic between data centers.
+
+Some of the areas where Google Cloud strongly competes with AWS include instance and payment configurability, privacy and traffic security, cost-efficiency, and Machine Learning.
+
+While all the three cloud providers offer discounts up to 75 percent for a commitment of one to three years, Google additionally offers a sustained use discount of up to 30 percent on each instance type running for more than 25 percent each month.
+
+Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken and written -- referred to as natural language. It is a component of artificial intelligence (AI). NLP has existed for more than 50 years and has roots in the field of linguistics.
+
+AWS’ 1-year-free trial has matched by GCP’s credit of USD 300 for 12 months along with a free tier that isn’t time-limited. GCP’s credits model is more suited for organizations newly venturing into cloud services.
+Java is one of the powerful general-purpose programming languages, created in 1995 by Sun Microsystems (now owned by Oracle). Java is Object-Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc). Java syntax is similar to C/C++. But Java does not provide low-level programming functionalities like pointers. Also, Java code is always written in the form of classes and objects. Android heavily relies on the Java programming language all the SDKs required to build for android applications use the standard libraries of Java. If one is coming from a traditional programming background like C, C++, Java is easy to learn. So in this discussion, there is a complete guide to learn Java specifically considering Android App Development.
